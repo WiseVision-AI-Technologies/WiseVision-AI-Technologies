@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, we are WiseVision AI Technologies</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wisevision&label=Profile%20views&color=0e75b6&style=flat" alt="wisevision" /> </p>
 
-<h6> WiseVision Technologies, founded in 2022, pioneers retail analytics solutions specializing in customer behavior analysis, tailored assortment evaluation by store, and advanced insights into seasonality and catchment areas. Our expertise spans affinity testing, sales forecasting, and shoplift detection, empowering retailers with actionable intelligence for operational efficiency and customer satisfaction. <\h6>
+<h6> WiseVision Technologies, founded in 2022, pioneers retail analytics solutions specializing in customer behavior analysis, tailored assortment evaluation by store, and advanced insights into seasonality and catchment areas. Our expertise spans affinity testing, sales forecasting, and shoplift detection, empowering retailers with actionable intelligence for operational efficiency and customer satisfaction.<\h6>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
